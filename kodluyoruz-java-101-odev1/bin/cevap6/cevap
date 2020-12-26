@@ -1,0 +1,2 @@
+Printer sınıfında static metot kullanmamızın nedeni 
+Main sınıfımızda bu metotları çağırırken sınıfAdı.Metot şeklinde çağırabilelim diye.
